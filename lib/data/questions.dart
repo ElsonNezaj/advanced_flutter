@@ -13,7 +13,7 @@ const questions = [
   QuizQuestion('How are Flutter UIs built?', [
     'By combining widgets in code',
     'By combining widgets in a visual editor',
-    'By defining widgets in config files',
+    'By defining wid gets in config files',
     'By using XCode for iOS and Android Studio for Android',
   ]),
   QuizQuestion(
